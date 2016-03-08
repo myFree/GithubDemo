@@ -12,13 +12,5 @@ en:
       access_token_invalid: invalid access token
       video_request:
         over: This video call is over
-      video_request1:
-        over1: This video call is done
-      video_request2:
-        over2: This video call is in progress
-      video_request3:
-        over2: This video 3 call is in progress
-      video_request4:
-        over2: This video 44 call is in progress
-      video_request99:
-        oldold: new is gone old is here
+      video_request100:
+        newnewnew: newnewnewnewnewnew
